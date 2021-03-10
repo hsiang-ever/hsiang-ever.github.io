@@ -1,3 +1,5 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://hsiang-ever.github.io"
+
+theme: jekyll-theme-cayman
